@@ -1,0 +1,13 @@
+{
+  "name": "news-aggregator",
+  "version": "1.0.0",
+  "description": "纯前端资讯聚合网站，支持GitHub Pages部署和自动更新",
+  "main": "scripts/fetch-news.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js",
+    "serve": "npx http-server . -p 8080 -c-1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="聚合全球最新资讯，科技、财经、体育、娱乐一网打尽">
+    <meta name="theme-color" content="#3b82f6">
+    <title>资讯聚合 - NewsHub</title>
+    <link rel="stylesheet" href="css/style.css?v=20260804">
+    <link rel="preconnect" href="https://images.unsplash.com">
+</head>
+<body>
+    <!-- 顶部导航 -->
+    <header class="navbar">
+        <div class="container nav-inner">            
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索资讯..." aria-label="搜索资讯">
+                <button id="searchBtn" aria-label="搜索">🔍</button>
+            </div>
+            
+            <div class="nav-actions">
+                <button id="themeToggle" class="theme-toggle" aria-label="切换主题">
+                    <span class="theme-icon-light">☀️</span>
+                    <span class="theme-icon-dark">🌙</span>
+                </button>
+                <button id="mobileMenuBtn" class="mobile-menu-btn" aria-label="菜单">☰</button>
+            </div>
+        </div>
+        
+        <!-- 分类标签 -->
+        <nav class="categories">
+            <div class="container categories-inner" id="categoryList">
+                <button class="category-btn active" data-category="all">全部</button>
+                <button class="category-btn" data-category="business">财经</button>
+                <button class="category-btn" data-category="technology">科技</button>
+                <button class="category-btn" data-category="entertainment">娱乐</button>
+                <button class="category-btn" data-category="sports">体育</button>
+                <button class="category-btn" data-category="health">健康</button>
+                <button class="category-btn" data-category="science">科学</button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="container main-content">
+        <!-- 状态提示 -->
+        <div id="statusBar" class="status-bar">
+            <span id="resultInfo">正在加载资讯...</span>
+            <span id="lastUpdate"></span>
+        </div>
+
+        <!-- 加载动画 -->
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>加载中...</p>
+        </div>
+
+        <!-- 错误提示 -->
+        <div id="errorMsg" class="error-msg hidden">
+            <p>😢 加载失败，请稍后重试</p>
+            <button id="retryBtn" class="btn-primary">重新加载</button>
+        </div>
+
+        <!-- 空结果 -->
+        <div id="emptyState" class="empty-state hidden">
+            <p>🔍 没有找到相关资讯</p>
+            <p class="empty-hint">试试其他关键词或分类</p>
+        </div>
+
+        <!-- 资讯列表 -->
+        <section id="newsGrid" class="news-grid">
+            <!-- 卡片由 JS 动态注入 -->
+        </section>
+
+        <!-- 分页 -->
+        <div id="pagination" class="pagination hidden">
+            <button id="prevPage" class="page-btn" disabled>‹ 上一页</button>
+            <div id="pageNumbers" class="page-numbers"></div>
+            <button id="nextPage" class="page-btn">下一页 ›</button>
+        </div>
+    </main>
+
+    <!-- 返回顶部 -->
+    <button id="backToTop" class="back-to-top hidden" aria-label="返回顶部">↑</button>
+
+    <script src="js/app.js?v=20260804"></script>
+</body>
+</html>

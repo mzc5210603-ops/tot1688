@@ -1,0 +1,1850 @@
+{
+  "lastUpdate": "2026-08-04T09:36:47.793Z",
+  "totalArticles": 204,
+  "categories": [
+    "technology",
+    "business",
+    "entertainment",
+    "sports",
+    "health",
+    "science"
+  ],
+  "articles": [
+    {
+      "title": "AI 大模型再突破：国产芯片推理性能提升 300%",
+      "description": "AI 大模型再突破：国产芯片推理性能提升 300%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "新华社",
+      "url": "https://example.com/article/0",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T09:36:47.793Z"
+    },
+    {
+      "title": "苹果发布新一代 Vision Pro，售价大幅降低",
+      "description": "苹果发布新一代 Vision Pro，售价大幅降低。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "人民日报",
+      "url": "https://example.com/article/1",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T08:36:47.793Z"
+    },
+    {
+      "title": "量子计算机首次实现百万量子比特稳定运算",
+      "description": "量子计算机首次实现百万量子比特稳定运算。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "央视新闻",
+      "url": "https://example.com/article/2",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T07:36:47.793Z"
+    },
+    {
+      "title": "开源社区爆发式增长，开发者数量突破 3000 万",
+      "description": "开源社区爆发式增长，开发者数量突破 3000 万。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "36氪",
+      "url": "https://example.com/article/3",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T06:36:47.793Z"
+    },
+    {
+      "title": "自动驾驶技术再升级，L4 级无人车正式商用",
+      "description": "自动驾驶技术再升级，L4 级无人车正式商用。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "虎嗅",
+      "url": "https://example.com/article/4",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T05:36:47.793Z"
+    },
+    {
+      "title": "6G 研发取得关键进展，预计 2030 年前商用",
+      "description": "6G 研发取得关键进展，预计 2030 年前商用。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "知乎日报",
+      "url": "https://example.com/article/5",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T04:36:47.793Z"
+    },
+    {
+      "title": "新型电池技术充电 10 分钟续航 1000 公里",
+      "description": "新型电池技术充电 10 分钟续航 1000 公里。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "新浪科技",
+      "url": "https://example.com/article/6",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T03:36:47.793Z"
+    },
+    {
+      "title": "人机交互革命：脑机接口实现意念操控手机",
+      "description": "人机交互革命：脑机接口实现意念操控手机。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/7",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T02:36:47.793Z"
+    },
+    {
+      "title": "国产操作系统生态爆发，应用数量突破 500 万",
+      "description": "国产操作系统生态爆发，应用数量突破 500 万。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "网易",
+      "url": "https://example.com/article/8",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T01:36:47.793Z"
+    },
+    {
+      "title": "全球首个 5G-A 网络正式商用，下行速率达 10Gbps",
+      "description": "全球首个 5G-A 网络正式商用，下行速率达 10Gbps。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "搜狐",
+      "url": "https://example.com/article/9",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-04T00:36:47.793Z"
+    },
+    {
+      "title": "折叠屏手机市场份额突破 15%，价格下探至 3000 元",
+      "description": "折叠屏手机市场份额突破 15%，价格下探至 3000 元。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "界面新闻",
+      "url": "https://example.com/article/10",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T23:36:47.793Z"
+    },
+    {
+      "title": "存储芯片价格触底反弹，行业进入新一轮上升周期",
+      "description": "存储芯片价格触底反弹，行业进入新一轮上升周期。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "第一财经",
+      "url": "https://example.com/article/11",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T22:36:47.793Z"
+    },
+    {
+      "title": "RISC-V 架构高性能处理器流片成功，性能追平同级别 ARM",
+      "description": "RISC-V 架构高性能处理器流片成功，性能追平同级别 ARM。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/12",
+      "image": "",
+      "publishedAt": "2026-08-03T21:36:47.793Z"
+    },
+    {
+      "title": "AI 编程助手普及度超 80%，开发者效率提升 40%",
+      "description": "AI 编程助手普及度超 80%，开发者效率提升 40%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "环球网",
+      "url": "https://example.com/article/13",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T20:36:47.793Z"
+    },
+    {
+      "title": "智能穿戴设备新增血糖监测功能，医疗级认证通过",
+      "description": "智能穿戴设备新增血糖监测功能，医疗级认证通过。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "中新网",
+      "url": "https://example.com/article/14",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T19:36:47.793Z"
+    },
+    {
+      "title": "星链全球用户突破 500 万，卫星互联网时代来临",
+      "description": "星链全球用户突破 500 万，卫星互联网时代来临。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "经济日报",
+      "url": "https://example.com/article/15",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T18:36:47.793Z"
+    },
+    {
+      "title": "智能眼镜 AR 光学方案革新，重量降至 30 克以下",
+      "description": "智能眼镜 AR 光学方案革新，重量降至 30 克以下。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "新华社",
+      "url": "https://example.com/article/16",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T17:36:47.793Z"
+    },
+    {
+      "title": "全国一体化算力网建设提速，东数西算成效显著",
+      "description": "全国一体化算力网建设提速，东数西算成效显著。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "人民日报",
+      "url": "https://example.com/article/17",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T16:36:47.793Z"
+    },
+    {
+      "title": "光量子芯片量产工艺突破，良率提升至 60%",
+      "description": "光量子芯片量产工艺突破，良率提升至 60%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "央视新闻",
+      "url": "https://example.com/article/18",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T15:36:47.793Z"
+    },
+    {
+      "title": "边缘计算节点部署超百万，工业互联网加速落地",
+      "description": "边缘计算节点部署超百万，工业互联网加速落地。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "36氪",
+      "url": "https://example.com/article/19",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T14:36:47.793Z"
+    },
+    {
+      "title": "类脑计算架构研究取得重要进展，能效比超 GPU 百倍",
+      "description": "类脑计算架构研究取得重要进展，能效比超 GPU 百倍。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "虎嗅",
+      "url": "https://example.com/article/20",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T13:36:47.793Z"
+    },
+    {
+      "title": "智能机器人柔性关节成本降 90%，家用机器人进入普及期",
+      "description": "智能机器人柔性关节成本降 90%，家用机器人进入普及期。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "知乎日报",
+      "url": "https://example.com/article/21",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T12:36:47.793Z"
+    },
+    {
+      "title": "下一代 GPU 架构发布，AI 训练性能提升 4 倍",
+      "description": "下一代 GPU 架构发布，AI 训练性能提升 4 倍。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "新浪科技",
+      "url": "https://example.com/article/22",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T11:36:47.793Z"
+    },
+    {
+      "title": "低代码平台市占率超 30%，企业数字化转型提速",
+      "description": "低代码平台市占率超 30%，企业数字化转型提速。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/23",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T10:36:47.793Z"
+    },
+    {
+      "title": "AI 大模型再突破：国产芯片推理性能提升 300%（深度报道1）",
+      "description": "AI 大模型再突破：国产芯片推理性能提升 300%（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "网易",
+      "url": "https://example.com/article/24",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T09:36:47.793Z"
+    },
+    {
+      "title": "苹果发布新一代 Vision Pro，售价大幅降低（深度报道2）",
+      "description": "苹果发布新一代 Vision Pro，售价大幅降低（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "搜狐",
+      "url": "https://example.com/article/25",
+      "image": "",
+      "publishedAt": "2026-08-03T08:36:47.793Z"
+    },
+    {
+      "title": "量子计算机首次实现百万量子比特稳定运算（深度报道3）",
+      "description": "量子计算机首次实现百万量子比特稳定运算（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "界面新闻",
+      "url": "https://example.com/article/26",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T07:36:47.793Z"
+    },
+    {
+      "title": "开源社区爆发式增长，开发者数量突破 3000 万（深度报道4）",
+      "description": "开源社区爆发式增长，开发者数量突破 3000 万（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "第一财经",
+      "url": "https://example.com/article/27",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T06:36:47.793Z"
+    },
+    {
+      "title": "自动驾驶技术再升级，L4 级无人车正式商用（深度报道5）",
+      "description": "自动驾驶技术再升级，L4 级无人车正式商用（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/28",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T05:36:47.793Z"
+    },
+    {
+      "title": "6G 研发取得关键进展，预计 2030 年前商用（深度报道6）",
+      "description": "6G 研发取得关键进展，预计 2030 年前商用（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "环球网",
+      "url": "https://example.com/article/29",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T04:36:47.793Z"
+    },
+    {
+      "title": "新型电池技术充电 10 分钟续航 1000 公里（深度报道7）",
+      "description": "新型电池技术充电 10 分钟续航 1000 公里（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "中新网",
+      "url": "https://example.com/article/30",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T03:36:47.793Z"
+    },
+    {
+      "title": "人机交互革命：脑机接口实现意念操控手机（深度报道8）",
+      "description": "人机交互革命：脑机接口实现意念操控手机（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "经济日报",
+      "url": "https://example.com/article/31",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T02:36:47.793Z"
+    },
+    {
+      "title": "国产操作系统生态爆发，应用数量突破 500 万（深度报道9）",
+      "description": "国产操作系统生态爆发，应用数量突破 500 万（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "新华社",
+      "url": "https://example.com/article/32",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T01:36:47.793Z"
+    },
+    {
+      "title": "全球首个 5G-A 网络正式商用，下行速率达 10Gbps（深度报道10）",
+      "description": "全球首个 5G-A 网络正式商用，下行速率达 10Gbps（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "technology",
+      "source": "人民日报",
+      "url": "https://example.com/article/33",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-03T00:36:47.793Z"
+    },
+    {
+      "title": "A股三大指数集体走强，创业板指涨超 3%",
+      "description": "A股三大指数集体走强，创业板指涨超 3%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "央视新闻",
+      "url": "https://example.com/article/34",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T23:36:47.793Z"
+    },
+    {
+      "title": "新能源汽车出口量创新高，连续 12 个月全球第一",
+      "description": "新能源汽车出口量创新高，连续 12 个月全球第一。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "36氪",
+      "url": "https://example.com/article/35",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T22:36:47.793Z"
+    },
+    {
+      "title": "央行降准释放长期资金约 5000 亿元",
+      "description": "央行降准释放长期资金约 5000 亿元。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "虎嗅",
+      "url": "https://example.com/article/36",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T21:36:47.793Z"
+    },
+    {
+      "title": "全球产业链重构，中国制造向中国创造转型",
+      "description": "全球产业链重构，中国制造向中国创造转型。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "知乎日报",
+      "url": "https://example.com/article/37",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T20:36:47.793Z"
+    },
+    {
+      "title": "跨境电商爆发式增长，年交易额突破 3 万亿",
+      "description": "跨境电商爆发式增长，年交易额突破 3 万亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "新浪科技",
+      "url": "https://example.com/article/38",
+      "image": "",
+      "publishedAt": "2026-08-02T19:36:47.793Z"
+    },
+    {
+      "title": "楼市新政出台，多城取消限购限贷",
+      "description": "楼市新政出台，多城取消限购限贷。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/39",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T18:36:47.793Z"
+    },
+    {
+      "title": "人民币国际化再提速，多国央行增持人民币资产",
+      "description": "人民币国际化再提速，多国央行增持人民币资产。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "网易",
+      "url": "https://example.com/article/40",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T17:36:47.793Z"
+    },
+    {
+      "title": "数字经济占 GDP 比重突破 40%，成为增长新引擎",
+      "description": "数字经济占 GDP 比重突破 40%，成为增长新引擎。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "搜狐",
+      "url": "https://example.com/article/41",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T16:36:47.793Z"
+    },
+    {
+      "title": "消费市场回暖，社零总额同比增长超预期",
+      "description": "消费市场回暖，社零总额同比增长超预期。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "界面新闻",
+      "url": "https://example.com/article/42",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T15:36:47.793Z"
+    },
+    {
+      "title": "科技创新板 IPO 常态化，硬科技企业融资便利",
+      "description": "科技创新板 IPO 常态化，硬科技企业融资便利。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "第一财经",
+      "url": "https://example.com/article/43",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T14:36:47.793Z"
+    },
+    {
+      "title": "黄金价格突破历史新高，避险情绪推动资金流入",
+      "description": "黄金价格突破历史新高，避险情绪推动资金流入。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/44",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T13:36:47.793Z"
+    },
+    {
+      "title": "公募基金规模突破 30 万亿，权益类占比回升",
+      "description": "公募基金规模突破 30 万亿，权益类占比回升。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "环球网",
+      "url": "https://example.com/article/45",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T12:36:47.793Z"
+    },
+    {
+      "title": "民营企业信心指数回升，新注册企业数同比增长 15%",
+      "description": "民营企业信心指数回升，新注册企业数同比增长 15%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "中新网",
+      "url": "https://example.com/article/46",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T11:36:47.793Z"
+    },
+    {
+      "title": "外贸多元化战略见效，对新兴市场出口大幅增长",
+      "description": "外贸多元化战略见效，对新兴市场出口大幅增长。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "经济日报",
+      "url": "https://example.com/article/47",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T10:36:47.793Z"
+    },
+    {
+      "title": "全国碳市场扩容，覆盖行业增至 8 个",
+      "description": "全国碳市场扩容，覆盖行业增至 8 个。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "新华社",
+      "url": "https://example.com/article/48",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T09:36:47.793Z"
+    },
+    {
+      "title": "基础设施 REITs 持续扩容，资产规模突破千亿",
+      "description": "基础设施 REITs 持续扩容，资产规模突破千亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "人民日报",
+      "url": "https://example.com/article/49",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T08:36:47.793Z"
+    },
+    {
+      "title": "专精特新小巨人企业超 12 万家，制造业升级提速",
+      "description": "专精特新小巨人企业超 12 万家，制造业升级提速。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "央视新闻",
+      "url": "https://example.com/article/50",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T07:36:47.793Z"
+    },
+    {
+      "title": "全国统一大市场建设加速，地方保护壁垒破除",
+      "description": "全国统一大市场建设加速，地方保护壁垒破除。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "36氪",
+      "url": "https://example.com/article/51",
+      "image": "",
+      "publishedAt": "2026-08-02T06:36:47.793Z"
+    },
+    {
+      "title": "消费券政策效果显现，节假日消费数据亮眼",
+      "description": "消费券政策效果显现，节假日消费数据亮眼。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "虎嗅",
+      "url": "https://example.com/article/52",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T05:36:47.793Z"
+    },
+    {
+      "title": "半导体产业链投资超 5000 亿，国产化替代加速",
+      "description": "半导体产业链投资超 5000 亿，国产化替代加速。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "知乎日报",
+      "url": "https://example.com/article/53",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T04:36:47.793Z"
+    },
+    {
+      "title": "绿色金融贷款余额突破 30 万亿，双碳目标推进",
+      "description": "绿色金融贷款余额突破 30 万亿，双碳目标推进。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "新浪科技",
+      "url": "https://example.com/article/54",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T03:36:47.793Z"
+    },
+    {
+      "title": "国企改革深化，战略性新兴产业资产占比提升",
+      "description": "国企改革深化，战略性新兴产业资产占比提升。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/55",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T02:36:47.793Z"
+    },
+    {
+      "title": "服务贸易创新发展试点扩围，数字服务出口增长",
+      "description": "服务贸易创新发展试点扩围，数字服务出口增长。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "网易",
+      "url": "https://example.com/article/56",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T01:36:47.793Z"
+    },
+    {
+      "title": "县域商业体系建设提速，农村消费潜力释放",
+      "description": "县域商业体系建设提速，农村消费潜力释放。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "搜狐",
+      "url": "https://example.com/article/57",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-02T00:36:47.793Z"
+    },
+    {
+      "title": "A股三大指数集体走强，创业板指涨超 3%（深度报道1）",
+      "description": "A股三大指数集体走强，创业板指涨超 3%（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "界面新闻",
+      "url": "https://example.com/article/58",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T23:36:47.793Z"
+    },
+    {
+      "title": "新能源汽车出口量创新高，连续 12 个月全球第一（深度报道2）",
+      "description": "新能源汽车出口量创新高，连续 12 个月全球第一（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "第一财经",
+      "url": "https://example.com/article/59",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T22:36:47.793Z"
+    },
+    {
+      "title": "央行降准释放长期资金约 5000 亿元（深度报道3）",
+      "description": "央行降准释放长期资金约 5000 亿元（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/60",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T21:36:47.793Z"
+    },
+    {
+      "title": "全球产业链重构，中国制造向中国创造转型（深度报道4）",
+      "description": "全球产业链重构，中国制造向中国创造转型（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "环球网",
+      "url": "https://example.com/article/61",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T20:36:47.793Z"
+    },
+    {
+      "title": "跨境电商爆发式增长，年交易额突破 3 万亿（深度报道5）",
+      "description": "跨境电商爆发式增长，年交易额突破 3 万亿（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "中新网",
+      "url": "https://example.com/article/62",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T19:36:47.793Z"
+    },
+    {
+      "title": "楼市新政出台，多城取消限购限贷（深度报道6）",
+      "description": "楼市新政出台，多城取消限购限贷（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "经济日报",
+      "url": "https://example.com/article/63",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T18:36:47.793Z"
+    },
+    {
+      "title": "人民币国际化再提速，多国央行增持人民币资产（深度报道7）",
+      "description": "人民币国际化再提速，多国央行增持人民币资产（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "新华社",
+      "url": "https://example.com/article/64",
+      "image": "",
+      "publishedAt": "2026-08-01T17:36:47.793Z"
+    },
+    {
+      "title": "数字经济占 GDP 比重突破 40%，成为增长新引擎（深度报道8）",
+      "description": "数字经济占 GDP 比重突破 40%，成为增长新引擎（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "人民日报",
+      "url": "https://example.com/article/65",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T16:36:47.793Z"
+    },
+    {
+      "title": "消费市场回暖，社零总额同比增长超预期（深度报道9）",
+      "description": "消费市场回暖，社零总额同比增长超预期（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "央视新闻",
+      "url": "https://example.com/article/66",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T15:36:47.793Z"
+    },
+    {
+      "title": "科技创新板 IPO 常态化，硬科技企业融资便利（深度报道10）",
+      "description": "科技创新板 IPO 常态化，硬科技企业融资便利（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "business",
+      "source": "36氪",
+      "url": "https://example.com/article/67",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T14:36:47.793Z"
+    },
+    {
+      "title": "国产科幻电影票房破 50 亿，口碑票房双丰收",
+      "description": "国产科幻电影票房破 50 亿，口碑票房双丰收。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "虎嗅",
+      "url": "https://example.com/article/68",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T13:36:47.793Z"
+    },
+    {
+      "title": "顶流歌手世界巡演开启，门票秒售罄",
+      "description": "顶流歌手世界巡演开启，门票秒售罄。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "知乎日报",
+      "url": "https://example.com/article/69",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T12:36:47.793Z"
+    },
+    {
+      "title": "流媒体平台大战加剧，内容投入超千亿",
+      "description": "流媒体平台大战加剧，内容投入超千亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "新浪科技",
+      "url": "https://example.com/article/70",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T11:36:47.793Z"
+    },
+    {
+      "title": "国风文化破圈，汉服产业规模突破百亿",
+      "description": "国风文化破圈，汉服产业规模突破百亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/71",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T10:36:47.793Z"
+    },
+    {
+      "title": "短视频用户规模突破 10 亿，日均使用超 3 小时",
+      "description": "短视频用户规模突破 10 亿，日均使用超 3 小时。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "网易",
+      "url": "https://example.com/article/72",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T09:36:47.793Z"
+    },
+    {
+      "title": "虚拟偶像走红，市场规模预计突破 200 亿",
+      "description": "虚拟偶像走红，市场规模预计突破 200 亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "搜狐",
+      "url": "https://example.com/article/73",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T08:36:47.793Z"
+    },
+    {
+      "title": "经典 IP 重制潮来袭，情怀牌能否持续奏效？",
+      "description": "经典 IP 重制潮来袭，情怀牌能否持续奏效？。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "界面新闻",
+      "url": "https://example.com/article/74",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T07:36:47.793Z"
+    },
+    {
+      "title": "电竞入亚运会正式项目，产业迎来黄金发展期",
+      "description": "电竞入亚运会正式项目，产业迎来黄金发展期。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "第一财经",
+      "url": "https://example.com/article/75",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T06:36:47.793Z"
+    },
+    {
+      "title": "沉浸式剧场成新消费热点，全国门店超 3000 家",
+      "description": "沉浸式剧场成新消费热点，全国门店超 3000 家。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/76",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T05:36:47.793Z"
+    },
+    {
+      "title": "脱口秀从小众走向大众，线下演出市场规模翻倍",
+      "description": "脱口秀从小众走向大众，线下演出市场规模翻倍。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "环球网",
+      "url": "https://example.com/article/77",
+      "image": "",
+      "publishedAt": "2026-08-01T04:36:47.793Z"
+    },
+    {
+      "title": "综艺节目创新破局，文化类节目口碑收视双高",
+      "description": "综艺节目创新破局，文化类节目口碑收视双高。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "中新网",
+      "url": "https://example.com/article/78",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T03:36:47.793Z"
+    },
+    {
+      "title": "网文出海收入超 50 亿，网文 IP 全球影响力扩大",
+      "description": "网文出海收入超 50 亿，网文 IP 全球影响力扩大。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "经济日报",
+      "url": "https://example.com/article/79",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T02:36:47.793Z"
+    },
+    {
+      "title": "音乐剧市场高速增长，年票房突破 50 亿",
+      "description": "音乐剧市场高速增长，年票房突破 50 亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "新华社",
+      "url": "https://example.com/article/80",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T01:36:47.793Z"
+    },
+    {
+      "title": "博物馆文创热销，考古盲盒系列销售额破亿",
+      "description": "博物馆文创热销，考古盲盒系列销售额破亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "人民日报",
+      "url": "https://example.com/article/81",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-08-01T00:36:47.793Z"
+    },
+    {
+      "title": "短剧行业爆发，年上线剧集超 10 万部",
+      "description": "短剧行业爆发，年上线剧集超 10 万部。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "央视新闻",
+      "url": "https://example.com/article/82",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T23:36:47.793Z"
+    },
+    {
+      "title": "动漫产业规模突破 3000 亿，国漫崛起进行时",
+      "description": "动漫产业规模突破 3000 亿，国漫崛起进行时。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "36氪",
+      "url": "https://example.com/article/83",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T22:36:47.793Z"
+    },
+    {
+      "title": "直播电商生态完善，KOL 孵化体系成熟",
+      "description": "直播电商生态完善，KOL 孵化体系成熟。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "虎嗅",
+      "url": "https://example.com/article/84",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T21:36:47.793Z"
+    },
+    {
+      "title": "游戏版号发放常态化，国产游戏出海成绩亮眼",
+      "description": "游戏版号发放常态化，国产游戏出海成绩亮眼。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "知乎日报",
+      "url": "https://example.com/article/85",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T20:36:47.793Z"
+    },
+    {
+      "title": "数字藏品行业监管规范，合规平台探索新场景",
+      "description": "数字藏品行业监管规范，合规平台探索新场景。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "新浪科技",
+      "url": "https://example.com/article/86",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T19:36:47.793Z"
+    },
+    {
+      "title": "演唱会市场报复性增长，年度票房破 200 亿",
+      "description": "演唱会市场报复性增长，年度票房破 200 亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/87",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T18:36:47.793Z"
+    },
+    {
+      "title": "国潮品牌联名频出，传统文化年轻化表达受追捧",
+      "description": "国潮品牌联名频出，传统文化年轻化表达受追捧。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "网易",
+      "url": "https://example.com/article/88",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T17:36:47.793Z"
+    },
+    {
+      "title": "播客听众超 2 亿，耳朵经济成为新蓝海",
+      "description": "播客听众超 2 亿，耳朵经济成为新蓝海。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "搜狐",
+      "url": "https://example.com/article/89",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T16:36:47.793Z"
+    },
+    {
+      "title": "影视工业化体系初步建成，视效制作成本下降",
+      "description": "影视工业化体系初步建成，视效制作成本下降。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "界面新闻",
+      "url": "https://example.com/article/90",
+      "image": "",
+      "publishedAt": "2026-07-31T15:36:47.793Z"
+    },
+    {
+      "title": "在线K歌用户超 5 亿，音乐社交场景持续创新",
+      "description": "在线K歌用户超 5 亿，音乐社交场景持续创新。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "第一财经",
+      "url": "https://example.com/article/91",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T14:36:47.793Z"
+    },
+    {
+      "title": "国产科幻电影票房破 50 亿，口碑票房双丰收（深度报道1）",
+      "description": "国产科幻电影票房破 50 亿，口碑票房双丰收（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/92",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T13:36:47.793Z"
+    },
+    {
+      "title": "顶流歌手世界巡演开启，门票秒售罄（深度报道2）",
+      "description": "顶流歌手世界巡演开启，门票秒售罄（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "环球网",
+      "url": "https://example.com/article/93",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T12:36:47.793Z"
+    },
+    {
+      "title": "流媒体平台大战加剧，内容投入超千亿（深度报道3）",
+      "description": "流媒体平台大战加剧，内容投入超千亿（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "中新网",
+      "url": "https://example.com/article/94",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T11:36:47.793Z"
+    },
+    {
+      "title": "国风文化破圈，汉服产业规模突破百亿（深度报道4）",
+      "description": "国风文化破圈，汉服产业规模突破百亿（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "经济日报",
+      "url": "https://example.com/article/95",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T10:36:47.793Z"
+    },
+    {
+      "title": "短视频用户规模突破 10 亿，日均使用超 3 小时（深度报道5）",
+      "description": "短视频用户规模突破 10 亿，日均使用超 3 小时（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "新华社",
+      "url": "https://example.com/article/96",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T09:36:47.793Z"
+    },
+    {
+      "title": "虚拟偶像走红，市场规模预计突破 200 亿（深度报道6）",
+      "description": "虚拟偶像走红，市场规模预计突破 200 亿（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "人民日报",
+      "url": "https://example.com/article/97",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T08:36:47.793Z"
+    },
+    {
+      "title": "经典 IP 重制潮来袭，情怀牌能否持续奏效？（深度报道7）",
+      "description": "经典 IP 重制潮来袭，情怀牌能否持续奏效？（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "央视新闻",
+      "url": "https://example.com/article/98",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T07:36:47.793Z"
+    },
+    {
+      "title": "电竞入亚运会正式项目，产业迎来黄金发展期（深度报道8）",
+      "description": "电竞入亚运会正式项目，产业迎来黄金发展期（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "36氪",
+      "url": "https://example.com/article/99",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T06:36:47.793Z"
+    },
+    {
+      "title": "沉浸式剧场成新消费热点，全国门店超 3000 家（深度报道9）",
+      "description": "沉浸式剧场成新消费热点，全国门店超 3000 家（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "虎嗅",
+      "url": "https://example.com/article/100",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T05:36:47.793Z"
+    },
+    {
+      "title": "脱口秀从小众走向大众，线下演出市场规模翻倍（深度报道10）",
+      "description": "脱口秀从小众走向大众，线下演出市场规模翻倍（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "entertainment",
+      "source": "知乎日报",
+      "url": "https://example.com/article/101",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T04:36:47.793Z"
+    },
+    {
+      "title": "中国队亚运会金牌数突破 200 枚，创造历史",
+      "description": "中国队亚运会金牌数突破 200 枚，创造历史。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "新浪科技",
+      "url": "https://example.com/article/102",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T03:36:47.793Z"
+    },
+    {
+      "title": "中超联赛商业化改革，版权收入创新高",
+      "description": "中超联赛商业化改革，版权收入创新高。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/103",
+      "image": "",
+      "publishedAt": "2026-07-31T02:36:47.793Z"
+    },
+    {
+      "title": "NBA 季后赛激战正酣，多支豪门爆冷出局",
+      "description": "NBA 季后赛激战正酣，多支豪门爆冷出局。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "网易",
+      "url": "https://example.com/article/104",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T01:36:47.793Z"
+    },
+    {
+      "title": "马拉松赛事井喷，全年赛事超过 2000 场",
+      "description": "马拉松赛事井喷，全年赛事超过 2000 场。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "搜狐",
+      "url": "https://example.com/article/105",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-31T00:36:47.793Z"
+    },
+    {
+      "title": "冬奥场馆再利用，群众冰雪运动普及加速",
+      "description": "冬奥场馆再利用，群众冰雪运动普及加速。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "界面新闻",
+      "url": "https://example.com/article/106",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T23:36:47.793Z"
+    },
+    {
+      "title": "电竞产业规模突破 1800 亿，用户数超 5 亿",
+      "description": "电竞产业规模突破 1800 亿，用户数超 5 亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "第一财经",
+      "url": "https://example.com/article/107",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T22:36:47.793Z"
+    },
+    {
+      "title": "青少年体育培训市场火爆，政策引导规范发展",
+      "description": "青少年体育培训市场火爆，政策引导规范发展。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/108",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T21:36:47.793Z"
+    },
+    {
+      "title": "全民健身计划深入推进，人均体育场地面积提升",
+      "description": "全民健身计划深入推进，人均体育场地面积提升。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "环球网",
+      "url": "https://example.com/article/109",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T20:36:47.793Z"
+    },
+    {
+      "title": "女足留洋军团扩大，欧洲五大联赛均有中国球员",
+      "description": "女足留洋军团扩大，欧洲五大联赛均有中国球员。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "中新网",
+      "url": "https://example.com/article/110",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T19:36:47.793Z"
+    },
+    {
+      "title": "CBA 选秀质量提升，大学生球员成重要力量",
+      "description": "CBA 选秀质量提升，大学生球员成重要力量。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "经济日报",
+      "url": "https://example.com/article/111",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T18:36:47.793Z"
+    },
+    {
+      "title": "网球中国赛季升级，大师赛永久落地上海",
+      "description": "网球中国赛季升级，大师赛永久落地上海。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "新华社",
+      "url": "https://example.com/article/112",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T17:36:47.793Z"
+    },
+    {
+      "title": "乒乓球世青赛包揽 7 金，梯队建设保持领先",
+      "description": "乒乓球世青赛包揽 7 金，梯队建设保持领先。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "人民日报",
+      "url": "https://example.com/article/113",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T16:36:47.793Z"
+    },
+    {
+      "title": "羽毛球世锦赛国羽揽 3 金，新老交替顺利完成",
+      "description": "羽毛球世锦赛国羽揽 3 金，新老交替顺利完成。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "央视新闻",
+      "url": "https://example.com/article/114",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T15:36:47.793Z"
+    },
+    {
+      "title": "游泳世锦赛多点开花，年轻选手惊喜不断",
+      "description": "游泳世锦赛多点开花，年轻选手惊喜不断。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "36氪",
+      "url": "https://example.com/article/115",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T14:36:47.793Z"
+    },
+    {
+      "title": "体操世锦赛金牌榜第一，难度质量双优势",
+      "description": "体操世锦赛金牌榜第一，难度质量双优势。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "虎嗅",
+      "url": "https://example.com/article/116",
+      "image": "",
+      "publishedAt": "2026-07-30T13:36:47.793Z"
+    },
+    {
+      "title": "女排联赛引入外援新规，竞争力全面提升",
+      "description": "女排联赛引入外援新规，竞争力全面提升。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "知乎日报",
+      "url": "https://example.com/article/117",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T12:36:47.793Z"
+    },
+    {
+      "title": "三人篮球职业化加速，国家队世界排名稳居前列",
+      "description": "三人篮球职业化加速，国家队世界排名稳居前列。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "新浪科技",
+      "url": "https://example.com/article/118",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T11:36:47.793Z"
+    },
+    {
+      "title": "霹雳舞正式入奥，街舞产业迎来发展机遇",
+      "description": "霹雳舞正式入奥，街舞产业迎来发展机遇。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/119",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T10:36:47.793Z"
+    },
+    {
+      "title": "体育用品出口创历史新高，国产品牌市占率超 60%",
+      "description": "体育用品出口创历史新高，国产品牌市占率超 60%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "网易",
+      "url": "https://example.com/article/120",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T09:36:47.793Z"
+    },
+    {
+      "title": "智慧场馆建设提速，观众观赛体验全面升级",
+      "description": "智慧场馆建设提速，观众观赛体验全面升级。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "搜狐",
+      "url": "https://example.com/article/121",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T08:36:47.793Z"
+    },
+    {
+      "title": "越野跑赛事监管加强，安全保障体系完善",
+      "description": "越野跑赛事监管加强，安全保障体系完善。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "界面新闻",
+      "url": "https://example.com/article/122",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T07:36:47.793Z"
+    },
+    {
+      "title": "国家体育消费试点城市扩围，夜经济+体育融合",
+      "description": "国家体育消费试点城市扩围，夜经济+体育融合。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "第一财经",
+      "url": "https://example.com/article/123",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T06:36:47.793Z"
+    },
+    {
+      "title": "校园足球深化改革，青训体系多元发展",
+      "description": "校园足球深化改革，青训体系多元发展。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/124",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T05:36:47.793Z"
+    },
+    {
+      "title": "冲浪滑板等极限运动普及，小众运动大众化",
+      "description": "冲浪滑板等极限运动普及，小众运动大众化。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "环球网",
+      "url": "https://example.com/article/125",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T04:36:47.793Z"
+    },
+    {
+      "title": "中国队亚运会金牌数突破 200 枚，创造历史（深度报道1）",
+      "description": "中国队亚运会金牌数突破 200 枚，创造历史（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "中新网",
+      "url": "https://example.com/article/126",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T03:36:47.793Z"
+    },
+    {
+      "title": "中超联赛商业化改革，版权收入创新高（深度报道2）",
+      "description": "中超联赛商业化改革，版权收入创新高（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "经济日报",
+      "url": "https://example.com/article/127",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T02:36:47.793Z"
+    },
+    {
+      "title": "NBA 季后赛激战正酣，多支豪门爆冷出局（深度报道3）",
+      "description": "NBA 季后赛激战正酣，多支豪门爆冷出局（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "新华社",
+      "url": "https://example.com/article/128",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-30T01:36:47.793Z"
+    },
+    {
+      "title": "马拉松赛事井喷，全年赛事超过 2000 场（深度报道4）",
+      "description": "马拉松赛事井喷，全年赛事超过 2000 场（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "人民日报",
+      "url": "https://example.com/article/129",
+      "image": "",
+      "publishedAt": "2026-07-30T00:36:47.793Z"
+    },
+    {
+      "title": "冬奥场馆再利用，群众冰雪运动普及加速（深度报道5）",
+      "description": "冬奥场馆再利用，群众冰雪运动普及加速（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "央视新闻",
+      "url": "https://example.com/article/130",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T23:36:47.793Z"
+    },
+    {
+      "title": "电竞产业规模突破 1800 亿，用户数超 5 亿（深度报道6）",
+      "description": "电竞产业规模突破 1800 亿，用户数超 5 亿（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "36氪",
+      "url": "https://example.com/article/131",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T22:36:47.793Z"
+    },
+    {
+      "title": "青少年体育培训市场火爆，政策引导规范发展（深度报道7）",
+      "description": "青少年体育培训市场火爆，政策引导规范发展（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "虎嗅",
+      "url": "https://example.com/article/132",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T21:36:47.793Z"
+    },
+    {
+      "title": "全民健身计划深入推进，人均体育场地面积提升（深度报道8）",
+      "description": "全民健身计划深入推进，人均体育场地面积提升（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "知乎日报",
+      "url": "https://example.com/article/133",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T20:36:47.793Z"
+    },
+    {
+      "title": "女足留洋军团扩大，欧洲五大联赛均有中国球员（深度报道9）",
+      "description": "女足留洋军团扩大，欧洲五大联赛均有中国球员（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "新浪科技",
+      "url": "https://example.com/article/134",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T19:36:47.793Z"
+    },
+    {
+      "title": "CBA 选秀质量提升，大学生球员成重要力量（深度报道10）",
+      "description": "CBA 选秀质量提升，大学生球员成重要力量（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "sports",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/135",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T18:36:47.793Z"
+    },
+    {
+      "title": "新型疫苗研发成功，可预防多种呼吸道疾病",
+      "description": "新型疫苗研发成功，可预防多种呼吸道疾病。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "网易",
+      "url": "https://example.com/article/136",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T17:36:47.793Z"
+    },
+    {
+      "title": "AI 辅助诊断准确率超 95%，基层医疗机构普及",
+      "description": "AI 辅助诊断准确率超 95%，基层医疗机构普及。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "搜狐",
+      "url": "https://example.com/article/137",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T16:36:47.793Z"
+    },
+    {
+      "title": "中医药现代化取得突破，多个新药获批上市",
+      "description": "中医药现代化取得突破，多个新药获批上市。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "界面新闻",
+      "url": "https://example.com/article/138",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T15:36:47.793Z"
+    },
+    {
+      "title": "心理健康受重视，专业咨询师需求激增",
+      "description": "心理健康受重视，专业咨询师需求激增。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "第一财经",
+      "url": "https://example.com/article/139",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T14:36:47.793Z"
+    },
+    {
+      "title": "基因编辑技术治愈罕见遗传病，临床实验成功",
+      "description": "基因编辑技术治愈罕见遗传病，临床实验成功。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/140",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T13:36:47.793Z"
+    },
+    {
+      "title": "长寿研究新发现：关键基因可延长寿命 30%",
+      "description": "长寿研究新发现：关键基因可延长寿命 30%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "环球网",
+      "url": "https://example.com/article/141",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T12:36:47.793Z"
+    },
+    {
+      "title": "全民健康素养提升，健康管理市场规模超万亿",
+      "description": "全民健康素养提升，健康管理市场规模超万亿。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "中新网",
+      "url": "https://example.com/article/142",
+      "image": "",
+      "publishedAt": "2026-07-29T11:36:47.793Z"
+    },
+    {
+      "title": "远程医疗覆盖九成县域，看病难问题缓解",
+      "description": "远程医疗覆盖九成县域，看病难问题缓解。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "经济日报",
+      "url": "https://example.com/article/143",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T10:36:47.793Z"
+    },
+    {
+      "title": "创新药医保谈判常态化，患者用药负担大幅下降",
+      "description": "创新药医保谈判常态化，患者用药负担大幅下降。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "新华社",
+      "url": "https://example.com/article/144",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T09:36:47.793Z"
+    },
+    {
+      "title": "细胞治疗产品陆续获批，癌症治疗迈入新时代",
+      "description": "细胞治疗产品陆续获批，癌症治疗迈入新时代。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "人民日报",
+      "url": "https://example.com/article/145",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T08:36:47.793Z"
+    },
+    {
+      "title": "医疗器械国产化加速，高端影像设备性能追平进口",
+      "description": "医疗器械国产化加速，高端影像设备性能追平进口。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "央视新闻",
+      "url": "https://example.com/article/146",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T07:36:47.793Z"
+    },
+    {
+      "title": "互联网+慢病管理落地，患者复诊购药便利化",
+      "description": "互联网+慢病管理落地，患者复诊购药便利化。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "36氪",
+      "url": "https://example.com/article/147",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T06:36:47.793Z"
+    },
+    {
+      "title": "公共卫生体系补短板，疾控中心能力全面升级",
+      "description": "公共卫生体系补短板，疾控中心能力全面升级。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "虎嗅",
+      "url": "https://example.com/article/148",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T05:36:47.793Z"
+    },
+    {
+      "title": "中医药循证医学研究突破，国际化标准体系建立",
+      "description": "中医药循证医学研究突破，国际化标准体系建立。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "知乎日报",
+      "url": "https://example.com/article/149",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T04:36:47.793Z"
+    },
+    {
+      "title": "儿童青少年近视防控成效显著，近视率首次下降",
+      "description": "儿童青少年近视防控成效显著，近视率首次下降。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "新浪科技",
+      "url": "https://example.com/article/150",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T03:36:47.793Z"
+    },
+    {
+      "title": "老年医学科建设提速，医养结合模式深入推广",
+      "description": "老年医学科建设提速，医养结合模式深入推广。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/151",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T02:36:47.793Z"
+    },
+    {
+      "title": "营养保健品行业规范发展，功能声称监管严格",
+      "description": "营养保健品行业规范发展，功能声称监管严格。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "网易",
+      "url": "https://example.com/article/152",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T01:36:47.793Z"
+    },
+    {
+      "title": "罕见病用药保障机制完善，年新增用药超 50 种",
+      "description": "罕见病用药保障机制完善，年新增用药超 50 种。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "搜狐",
+      "url": "https://example.com/article/153",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-29T00:36:47.793Z"
+    },
+    {
+      "title": "医学检验结果互认全面推开，减少重复检查",
+      "description": "医学检验结果互认全面推开，减少重复检查。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "界面新闻",
+      "url": "https://example.com/article/154",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T23:36:47.793Z"
+    },
+    {
+      "title": "康复医疗体系建设，康复床位数增长 50%",
+      "description": "康复医疗体系建设，康复床位数增长 50%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "第一财经",
+      "url": "https://example.com/article/155",
+      "image": "",
+      "publishedAt": "2026-07-28T22:36:47.793Z"
+    },
+    {
+      "title": "疫苗追溯体系全面建成，疫苗安全全程可控",
+      "description": "疫苗追溯体系全面建成，疫苗安全全程可控。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/156",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T21:36:47.793Z"
+    },
+    {
+      "title": "医美行业强监管，合规机构加速替代黑医美",
+      "description": "医美行业强监管，合规机构加速替代黑医美。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "环球网",
+      "url": "https://example.com/article/157",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T20:36:47.793Z"
+    },
+    {
+      "title": "健康险产品创新，带病体可保产品增加",
+      "description": "健康险产品创新，带病体可保产品增加。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "中新网",
+      "url": "https://example.com/article/158",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T19:36:47.793Z"
+    },
+    {
+      "title": "基层卫生人才队伍扩容，乡村医生待遇提升",
+      "description": "基层卫生人才队伍扩容，乡村医生待遇提升。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "经济日报",
+      "url": "https://example.com/article/159",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T18:36:47.793Z"
+    },
+    {
+      "title": "新型疫苗研发成功，可预防多种呼吸道疾病（深度报道1）",
+      "description": "新型疫苗研发成功，可预防多种呼吸道疾病（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "新华社",
+      "url": "https://example.com/article/160",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T17:36:47.793Z"
+    },
+    {
+      "title": "AI 辅助诊断准确率超 95%，基层医疗机构普及（深度报道2）",
+      "description": "AI 辅助诊断准确率超 95%，基层医疗机构普及（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "人民日报",
+      "url": "https://example.com/article/161",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T16:36:47.793Z"
+    },
+    {
+      "title": "中医药现代化取得突破，多个新药获批上市（深度报道3）",
+      "description": "中医药现代化取得突破，多个新药获批上市（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "央视新闻",
+      "url": "https://example.com/article/162",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T15:36:47.793Z"
+    },
+    {
+      "title": "心理健康受重视，专业咨询师需求激增（深度报道4）",
+      "description": "心理健康受重视，专业咨询师需求激增（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "36氪",
+      "url": "https://example.com/article/163",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T14:36:47.793Z"
+    },
+    {
+      "title": "基因编辑技术治愈罕见遗传病，临床实验成功（深度报道5）",
+      "description": "基因编辑技术治愈罕见遗传病，临床实验成功（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "虎嗅",
+      "url": "https://example.com/article/164",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T13:36:47.793Z"
+    },
+    {
+      "title": "长寿研究新发现：关键基因可延长寿命 30%（深度报道6）",
+      "description": "长寿研究新发现：关键基因可延长寿命 30%（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "知乎日报",
+      "url": "https://example.com/article/165",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T12:36:47.793Z"
+    },
+    {
+      "title": "全民健康素养提升，健康管理市场规模超万亿（深度报道7）",
+      "description": "全民健康素养提升，健康管理市场规模超万亿（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "新浪科技",
+      "url": "https://example.com/article/166",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T11:36:47.793Z"
+    },
+    {
+      "title": "远程医疗覆盖九成县域，看病难问题缓解（深度报道8）",
+      "description": "远程医疗覆盖九成县域，看病难问题缓解（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/167",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T10:36:47.793Z"
+    },
+    {
+      "title": "创新药医保谈判常态化，患者用药负担大幅下降（深度报道9）",
+      "description": "创新药医保谈判常态化，患者用药负担大幅下降（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "网易",
+      "url": "https://example.com/article/168",
+      "image": "",
+      "publishedAt": "2026-07-28T09:36:47.793Z"
+    },
+    {
+      "title": "细胞治疗产品陆续获批，癌症治疗迈入新时代（深度报道10）",
+      "description": "细胞治疗产品陆续获批，癌症治疗迈入新时代（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "health",
+      "source": "搜狐",
+      "url": "https://example.com/article/169",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T08:36:47.793Z"
+    },
+    {
+      "title": "中国空间站完成扩建，科学实验成果丰硕",
+      "description": "中国空间站完成扩建，科学实验成果丰硕。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "界面新闻",
+      "url": "https://example.com/article/170",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T07:36:47.793Z"
+    },
+    {
+      "title": "嫦娥六号带回月球背面样本，发现新物质",
+      "description": "嫦娥六号带回月球背面样本，发现新物质。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "第一财经",
+      "url": "https://example.com/article/171",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T06:36:47.793Z"
+    },
+    {
+      "title": "可控核聚变研究突破：持续运行超 400 秒",
+      "description": "可控核聚变研究突破：持续运行超 400 秒。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/172",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T05:36:47.793Z"
+    },
+    {
+      "title": "暗物质探测卫星发现疑似暗物质信号",
+      "description": "暗物质探测卫星发现疑似暗物质信号。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "环球网",
+      "url": "https://example.com/article/173",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T04:36:47.793Z"
+    },
+    {
+      "title": "深海探测器突破 12000 米，到达马里亚纳海沟",
+      "description": "深海探测器突破 12000 米，到达马里亚纳海沟。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "中新网",
+      "url": "https://example.com/article/174",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T03:36:47.793Z"
+    },
+    {
+      "title": "基因测序成本降至百元级，精准医疗普及加速",
+      "description": "基因测序成本降至百元级，精准医疗普及加速。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "经济日报",
+      "url": "https://example.com/article/175",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T02:36:47.793Z"
+    },
+    {
+      "title": "新材料石墨烯大规模量产，应用场景持续拓展",
+      "description": "新材料石墨烯大规模量产，应用场景持续拓展。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "新华社",
+      "url": "https://example.com/article/176",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T01:36:47.793Z"
+    },
+    {
+      "title": "人类基因组完整解读成功，医学进入新纪元",
+      "description": "人类基因组完整解读成功，医学进入新纪元。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "人民日报",
+      "url": "https://example.com/article/177",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-28T00:36:47.793Z"
+    },
+    {
+      "title": "脉冲星导航实验卫星升空，自主导航体系建成",
+      "description": "脉冲星导航实验卫星升空，自主导航体系建成。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "央视新闻",
+      "url": "https://example.com/article/178",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T23:36:47.793Z"
+    },
+    {
+      "title": "太阳探测卫星发布首图，太阳风起源之谜解明",
+      "description": "太阳探测卫星发布首图，太阳风起源之谜解明。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "36氪",
+      "url": "https://example.com/article/179",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T22:36:47.793Z"
+    },
+    {
+      "title": "合成生物学技术爆发，人工合成淀粉量产落地",
+      "description": "合成生物学技术爆发，人工合成淀粉量产落地。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "虎嗅",
+      "url": "https://example.com/article/180",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T21:36:47.793Z"
+    },
+    {
+      "title": "全球首台 E 级超算正式投运，算力领跑世界",
+      "description": "全球首台 E 级超算正式投运，算力领跑世界。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "知乎日报",
+      "url": "https://example.com/article/181",
+      "image": "",
+      "publishedAt": "2026-07-27T20:36:47.793Z"
+    },
+    {
+      "title": "干细胞治疗脊髓损伤临床试验取得突破",
+      "description": "干细胞治疗脊髓损伤临床试验取得突破。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "新浪科技",
+      "url": "https://example.com/article/182",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T19:36:47.793Z"
+    },
+    {
+      "title": "碳捕获新材料问世，捕集成本降低 80%",
+      "description": "碳捕获新材料问世，捕集成本降低 80%。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/183",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T18:36:47.793Z"
+    },
+    {
+      "title": "量子中继器关键技术突破，量子通信网络延伸",
+      "description": "量子中继器关键技术突破，量子通信网络延伸。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "网易",
+      "url": "https://example.com/article/184",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T17:36:47.793Z"
+    },
+    {
+      "title": "青藏高原二次科考完成，发现大量新物种",
+      "description": "青藏高原二次科考完成，发现大量新物种。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "搜狐",
+      "url": "https://example.com/article/185",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T16:36:47.793Z"
+    },
+    {
+      "title": "引力波探测灵敏度提升三倍，宇宙演化线索浮现",
+      "description": "引力波探测灵敏度提升三倍，宇宙演化线索浮现。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "界面新闻",
+      "url": "https://example.com/article/186",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T15:36:47.793Z"
+    },
+    {
+      "title": "脑连接图谱绘制完成，神经科学研究基石奠定",
+      "description": "脑连接图谱绘制完成，神经科学研究基石奠定。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "第一财经",
+      "url": "https://example.com/article/187",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T14:36:47.793Z"
+    },
+    {
+      "title": "新一代大视场巡天望远镜开建，天文观测能力飞跃",
+      "description": "新一代大视场巡天望远镜开建，天文观测能力飞跃。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "澎湃新闻",
+      "url": "https://example.com/article/188",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T13:36:47.793Z"
+    },
+    {
+      "title": "纳米机器人精准递送药物进入临床前研究",
+      "description": "纳米机器人精准递送药物进入临床前研究。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "环球网",
+      "url": "https://example.com/article/189",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T12:36:47.793Z"
+    },
+    {
+      "title": "高温超导机理研究达成共识，理论体系确立",
+      "description": "高温超导机理研究达成共识，理论体系确立。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "中新网",
+      "url": "https://example.com/article/190",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T11:36:47.793Z"
+    },
+    {
+      "title": "二氧化碳人工合成糖技术取得重要进展",
+      "description": "二氧化碳人工合成糖技术取得重要进展。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "经济日报",
+      "url": "https://example.com/article/191",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T10:36:47.793Z"
+    },
+    {
+      "title": "陨石中发现蛋白质等生物分子，生命起源添新证",
+      "description": "陨石中发现蛋白质等生物分子，生命起源添新证。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "新华社",
+      "url": "https://example.com/article/192",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T09:36:47.793Z"
+    },
+    {
+      "title": "全球气候模型预测精度提升，极端天气预警提前",
+      "description": "全球气候模型预测精度提升，极端天气预警提前。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "人民日报",
+      "url": "https://example.com/article/193",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T08:36:47.793Z"
+    },
+    {
+      "title": "中国空间站完成扩建，科学实验成果丰硕（深度报道1）",
+      "description": "中国空间站完成扩建，科学实验成果丰硕（深度报道1）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "央视新闻",
+      "url": "https://example.com/article/194",
+      "image": "",
+      "publishedAt": "2026-07-27T07:36:47.793Z"
+    },
+    {
+      "title": "嫦娥六号带回月球背面样本，发现新物质（深度报道2）",
+      "description": "嫦娥六号带回月球背面样本，发现新物质（深度报道2）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "36氪",
+      "url": "https://example.com/article/195",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T06:36:47.793Z"
+    },
+    {
+      "title": "可控核聚变研究突破：持续运行超 400 秒（深度报道3）",
+      "description": "可控核聚变研究突破：持续运行超 400 秒（深度报道3）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "虎嗅",
+      "url": "https://example.com/article/196",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T05:36:47.793Z"
+    },
+    {
+      "title": "暗物质探测卫星发现疑似暗物质信号（深度报道4）",
+      "description": "暗物质探测卫星发现疑似暗物质信号（深度报道4）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "知乎日报",
+      "url": "https://example.com/article/197",
+      "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T04:36:47.793Z"
+    },
+    {
+      "title": "深海探测器突破 12000 米，到达马里亚纳海沟（深度报道5）",
+      "description": "深海探测器突破 12000 米，到达马里亚纳海沟（深度报道5）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "新浪科技",
+      "url": "https://example.com/article/198",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T03:36:47.793Z"
+    },
+    {
+      "title": "基因测序成本降至百元级，精准医疗普及加速（深度报道6）",
+      "description": "基因测序成本降至百元级，精准医疗普及加速（深度报道6）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "腾讯科技",
+      "url": "https://example.com/article/199",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T02:36:47.793Z"
+    },
+    {
+      "title": "新材料石墨烯大规模量产，应用场景持续拓展（深度报道7）",
+      "description": "新材料石墨烯大规模量产，应用场景持续拓展（深度报道7）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "网易",
+      "url": "https://example.com/article/200",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T01:36:47.793Z"
+    },
+    {
+      "title": "人类基因组完整解读成功，医学进入新纪元（深度报道8）",
+      "description": "人类基因组完整解读成功，医学进入新纪元（深度报道8）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "搜狐",
+      "url": "https://example.com/article/201",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-27T00:36:47.793Z"
+    },
+    {
+      "title": "脉冲星导航实验卫星升空，自主导航体系建成（深度报道9）",
+      "description": "脉冲星导航实验卫星升空，自主导航体系建成（深度报道9）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "界面新闻",
+      "url": "https://example.com/article/202",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-26T23:36:47.793Z"
+    },
+    {
+      "title": "太阳探测卫星发布首图，太阳风起源之谜解明（深度报道10）",
+      "description": "太阳探测卫星发布首图，太阳风起源之谜解明（深度报道10）。这是一篇示例资讯，展示网站界面效果。部署配置真实 API 后将自动替换为来自 NewsAPI、GNews 等数据源的全球最新资讯，每天早上 8 点由 GitHub Actions 自动更新。点击卡片可跳转原文阅读完整报道，支持按分类筛选、关键词搜索、亮暗主题切换等功能。",
+      "category": "science",
+      "source": "第一财经",
+      "url": "https://example.com/article/203",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+      "publishedAt": "2026-07-26T22:36:47.793Z"
+    }
+  ]
+}
